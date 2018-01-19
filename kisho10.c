@@ -6,9 +6,8 @@ int main()
 	scanf("%d",&a);
 	while(a>0)
 	{
-		a=a/10;
-		count=count+1;
-		
+	a=a/10;
+	count=count+1;
 	}
 	printf("The number of digits is %d",count);
 	return 0;
