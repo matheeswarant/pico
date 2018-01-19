@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+int main()
 {
 int N[5] ={1,2.3,4,5},k,sum;
 for(k=1;k<=2;++k)
